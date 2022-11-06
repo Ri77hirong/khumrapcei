@@ -1,4 +1,15 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="1440" max-conn="1" refresh="24"
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70cedc683f4e48a6a409755fb10b0010:422acf875f91a6ce4fd0142082b71c54
+#EXTINF:-1 tvg-id="GemilangBersama" tvg-logo="https://i.ibb.co/TY16kmd/warna.png" group-title="FJ | XTerox",100 Gemilang Bersama
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5084/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-logo="https://i.ibb.co/TY16kmd/warna.png" group-title="FJ | XTerox",107 Warna HD (B)
+https://raw.githubusercontent.com/Ri77hirong/khumrapcei/main/Rhincwrna.m3u8
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-logo="https://i.ibb.co/PjJWbzD/citra.png" group-title="FJ | XTerox",108 Citra HD (B)
+https://raw.githubusercontent.com/Ri77hirong/khumrapcei/main/Rhinctro.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f437ad29765f253325a84298d9f0d10:d8e36aeb7416a20a124c2d132c8f74f9
@@ -6,6 +17,183 @@
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f437ad29765f253325a84298d9f0d10:d8e36aeb7416a20a124c2d132c8f74f9
-#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://i.ibb.co/k5HH6qQ/ria.png" group-title="FJ | XTerox",104 Ria HD
-https://stream.zeehanzgadget.com/ria.mpd
+#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
+#EXTINF:-1 tvg-id="AstroWarna" tvg-logo="https://i.ibb.co/TY16kmd/warna.png" group-title="FJ | XTerox",107 Warna HD
+https://aqfadtv.xyz/live/warna/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73e84f91bd9ae20412e370f98fd3a110:d5b52aabca5afe002eb495804f8ec944
+#EXTINF:-1 tvg-id="AstroCitra" tvg-logo="https://i.ibb.co/PjJWbzD/citra.png" group-title="FJ | XTerox",108 Citra HD
+https://aqfadtv.xyz/live/citra/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d2d84310d3fb9230404a1fbf5b33d10:8be93a0a6b41efad87096080bc55211a
+#EXTINF:-1 tvg-id="AstroSuperSport" tvg-logo="https://i.ibb.co/HgLdTzZ/assp.png" group-title="FJ | SportsPACK",811 XtRo SuperSport FHD
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=369ee7aba1e1504f85366b899d81ef10:299fbf0f774920858ff4fabf0afbe6b7
+#EXTINF:-1 tvg-id="AstroSuperSport2" tvg-logo="https://i.ibb.co/jL8Frrr/assp2.png" group-title="FJ | SportsPACK",812 XtRo SuperSport 2 FHD
+#https://linears-playback.astro.com.my/vsgN/41--XC1x_lgL3fqw2UE0W3OvRvs1E4l2tKaQumYEYR1lE=xxU2/dash-wv/jitp-linearwm/2104/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a522db0e2c8b90c38b64187018648a10:cf66fd59fe28f45418628313e06d52da
+#EXTINF:-1 tvg-id="AstroSuperSport3" tvg-logo="https://i.ibb.co/2sFBVDP/assp3.png" group-title="FJ | SportsPACK",813 XtRo SuperSport 3 HD
+#https://linears-playback.astro.com.my/vsgN/41t8zrLOKP6zl_HfPbQrjTghhNhGmZW3D3qXDBEMiT5Vc=hAoe/dash-wv/jitp-linearwm/2701/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f38843b85760decb7a30fde6af3ff10:9c50a5c2b6219463f05c5d8f9f42892e
+#EXTINF:-1 tvg-id="AstroSuperSport4" tvg-logo="https://i.ibb.co/X3vJpFg/assp4.png" group-title="FJ | SportsPACK",814 XtRo SuperSport 4 HD
+#https://linears-playback.astro.com.my/vsgN/41hJNgLpp569fZSdwFmbfcQ7a_i1yv4MZRbzlbFzyfg7M=VJwp/dash-wv/jitp-linearwm/2506/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroSuperSport2" tvg-logo="https://raw.githubusercontent.com/Fjxtrox/Vectro/main/assp2.png" group-title="FJ | SportsPACK",812 XtRo SuperSport 2 HD B
+https://raw.githubusercontent.com/Ri77hirong/thimchioa/main/Srewatdhai2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fjxtrox/Vectro/main/assp3.png" group-title="FJ | SportsPACK" tvg-id="AstroSuperSport3",813 XtRo SuperSport 3 HD B
+https://raw.githubusercontent.com/Ri77hirong/thimchioa/main/Srewatdhai3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fjxtrox/Vectro/main/assp4.png" group-title="FJ | SportsPACK" tvg-id="AstroSuperSport4",814 XtRo SuperSport 4 HD B
+https://raw.githubusercontent.com/Ri77hirong/thimchioa/main/Srewatdhai4.m3u8
+
+#EXTINF:-1 group-title="FJ | Korean" tvg-logo="https://assets.presslogic.com/presslogic-hk-tk/static/images/kdaily/logo.png",K-Daily TV
+https://asrazunifi.ddns.net:8443/live.m3u8
+
+#EXTINF:-1 group-title="FJ | Korean" tvg-logo="https://www.pngkit.com/png/full/783-7830063_about-kpopchannel-tv-sign.png",Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.crushpixel.com/big-static18/preview4/initial-fj-letter-logo-creative-2985130.jpg" group-title="<< FJ - Info >>",Created by FJ (Not For Sale)
+#https://pb82-my.sharepoint.com/:v:/g/personal/fjxchannel_t_5tb_in/ER1VrTpkEJNCnoUq1SFbfcoBZCYv0pEzKXOsK7eWbjKnjw?e=0dvTj4
+https://drive.google.com/file/d/1GJbEbsS9kbQn4NtGc69_o80cRvqVzMAP/view?usp=drivesdk
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=389baefb18db84b8f62b1bddfda5c810:db6410d5d69b60fb66208f61cd4bef44
+#EXTINF:-1 tvg-id="TV1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="FJ | MyTV",101 TV1 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fec54024f42224cb2fd9836d5317510:1e2fec607ad9f3bf36fbca04fcfacc81
+#EXTINF:-1 tvg-id="TV2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="FJ | MyTV",102 TV2 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
+
+#EXTINF:-1 tvg-id="BERITARTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="FJ | MyTV",123 RTM BES HD
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 tvg-id="TV3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="FJ | MyTV",103 TV3 HD
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:-1 tvg-id="TV3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="FJ | MyTV",103 TV3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
+#https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:-1 tvg-id="GOShopMYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png" group-title="FJ | MyTV",120 GO Shop
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6458dac9edfe282465c7b0cd1ca0e010:9181b8041ae036047abde8a674d31b90
+https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://baseimages.tonton.com.my/1546920448175_drama_sangat_logo.png" group-title="FJ | MyTV",105 DRAMA CHANGATTT!
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+#EXTINF:-1 tvg-id="TV6" tvg-logo="https://telegra.ph/file/04d73bd40aaf937296d26.png" group-title="FJ | MyTV",106 TV6
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+#https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8
+
+#EXTINF:-1 tvg-id="Awesome TV" group-title="FJ | MyTV" tvg-logo="https://aqfadtv.astradamy.com/logos/AwesomeTVWhite.png",123 Awesome TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a4fb03a7f0b51c6264b70203ebcde10:abf3210c7882b3838b66e256d3d72840
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa3ffd5b0ad254ca7b23c85c240f4910:c17b80d133522c555b4c10ad6a142750
+#EXTINF:-1 tvg-id="BernamaTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="FJ | MyTV",502 Bernama TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd600869fd5f4bfee286825f6d778b10:eb5b83acbbd79af479a00db92935a34b
+#EXTINF:-1 tvg-id="TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/TVSARAWAK-logo-mobile.png" group-title="FJ | MyTV",122 TV Sarawak
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+
+#EXTINF:-1 tvg-id="OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="FJ | MyTV",146 TV Okey
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+#https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
+
+#EXTINF:-1 tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-title="FJ | MyTV",147 Didik TV KPM
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+#EXTINF:-1 tvg-id="8TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-title="FJ | MyTV",148 8TV
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+
+#EXTINF:-1 tvg-id="TV9" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-title="FJ | MyTV",149 TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
+#EXTINF:-1 tvg-id="TVAlhijrah" tvg-logo="https://aqfadtv.astradamy.com/logos/TVAlhijrahWhite.png" group-title="FJ | MyTV",114 TV AlHijrah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3939ff52ae5e4d0e244414bb10682510:c24f329834fb054fd9e1a5d51d5a5306
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+
+#EXTINF:-1 tvg-name="RTB" tvg-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png" group-title="FJ | MyTV",RTB GO HD (Brunai)
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF: -1 tvg-name="RTB2" tvg-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png" group-title="FJ | MyTV",RTB GO 2 HD (Brunai)
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=452aca9691995f5ae62629035888e110:35d62e585c052018e1c190eda89fafa3
+#EXTINF:-1 tvg-id="AstroPrima" tvg-logo="https://i.ibb.co/L9BgwR5/prima.png" group-title="FJ | XTerox",105 Prima HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+#https://stream.zeehanzgadget.com/prima.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b65e3d6ee807842a109821fba96b510:7827b9cf05fda4c3b77f48dea0acfa48
+#EXTINF:-1 tvg-id="AstroOasis" tvg-logo="https://i.ibb.co/B45wdht/oasis.png" group-title="FJ | XTerox",106 Oasis HD
+#https://stream.zeehanzgadget.com/oasis.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=217e77e40cf4ec1269ea1e278eb2c610:b2a2333955933b7dc3d71e7685971f71
+#EXTINF:-1 tvg-id="AstroAura" tvg-logo="https://i.ibb.co/VgMrGZq/aura.png" group-title="FJ | XTerox",113 Aura HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
+#EXTINF:-1 tvg-id="AstroRania" tvg-logo="https://i.ibb.co/dgpBBrT/rania.png" group-title="FJ | XTerox",112 Rania HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+#https://stream.zeehanzgadget.com/rania.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09891197fd467008f73b1fe18bfed710:fa752673e5da5541a796569371788dea
+#EXTINF:-1 tvg-id="AstroAwani" tvg-logo="https://i.ibb.co/r7t5SV8/awani.png" group-title="FJ | XTerox",501 Awani HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
+#https://stream.zeehanzgadget.com/awani.mpd
+#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-logo="http://static.epg.best/kr/ArirangTV.kr.png" group-title="FJ | Korean",391 Arirang HD
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76ac661111eadf6ffde0dcdbd16fcb10:24b391c868de298804403a024e6ce7de
+#EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://i.ibb.co/vm1hn2b/kbs.png" group-title="FJ | Korean",392 KBS World HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
+
+#EXTINF:-1 tvg-id="ONE" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="FJ | Korean",393 ONE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba8842e119ee61ac7c613e1e6a1e3e10:46ed2370a8cc4cef2665e03e110f9455
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dcd711054d1b3e2b16b41e2446d8c10:f0b97c062a990e4b99cfed4527aed878
+#EXTINF:-1 tvg-id="394" tvg-logo="https://i.ibb.co/c8ZFwg6/ohik.png" group-title="FJ | Korean",394 Oh!k HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
+
+#EXTINF:-1 tvg-id="tvN" ch-number="395" group-title="FJ | Korean" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tVN_v1.png",395 tvN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1269a58571f4528d585fdccbf8fa510:615d2dcc24a8fa6a7342185a6fcb1615
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+
+#EXTINF:-1 tvg-id="416" ch-number="tvNMovies" group-title="FJ | Korean" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",416 tvN Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4667aa2bb9d080471f43e03d40868c10:116db8fda0a62355cf24c6acb6aab03d
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
