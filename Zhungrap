@@ -1,0 +1,11 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f437ad29765f253325a84298d9f0d10:d8e36aeb7416a20a124c2d132c8f74f9
+#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://i.ibb.co/k5HH6qQ/ria.png" group-title="FJ | XTerox",104 Ria HD
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f437ad29765f253325a84298d9f0d10:d8e36aeb7416a20a124c2d132c8f74f9
+#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://i.ibb.co/k5HH6qQ/ria.png" group-title="FJ | XTerox",104 Ria HD
+https://stream.zeehanzgadget.com/ria.mpd
