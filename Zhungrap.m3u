@@ -1,1 +1,6 @@
 #EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
+#EXTINF:-1 tvg-id="AstroWarna" tvg-logo="https://i.ibb.co/TY16kmd/warna.png" group-title="FJ | XTerox",107 Warna HD
+https://aqfadtv.xyz/live/warna/index.mpd
