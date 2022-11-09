@@ -1,7 +1,7 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback.astro.com.my/clearkey/dash-ck/linear/1004
+#KODIPROP:inputstream.adaptive.license_key=http://linearjitp.astro.com.my/clearkey/dash-ck/linear/1004
 #EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://i.ibb.co/k5HH6qQ/ria.png" group-title="FJ | XTerox",104 Ria HD
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 
