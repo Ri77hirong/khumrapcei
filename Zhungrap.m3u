@@ -1,6 +1,11 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback.astro.com.my/clearkey/dash-ck/linear/1004
+#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://i.ibb.co/k5HH6qQ/ria.png" group-title="FJ | XTerox",104 Ria HD
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
 #EXTINF:-1 tvg-id="AstroWarna" tvg-logo="https://i.ibb.co/TY16kmd/warna.png" group-title="FJ | XTerox",107 Warna HD
 https://aqfadtv.xyz/live/warna/index.mpd
