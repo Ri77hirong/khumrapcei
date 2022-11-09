@@ -1,6 +1,6 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
 #EXTINF:-1 tvg-id="AstroWarna" tvg-logo="https://i.ibb.co/TY16kmd/warna.png" group-title="FJ | XTerox",107 Warna HD
-https://linears-playback.astro.com.my/vsg/41oDAQyscM3NO4v09e0JcxGz9ROscI2byHy2tI0adpG3Y=CBmz/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://aqfadtv.xyz/live/warna/index.mpd
