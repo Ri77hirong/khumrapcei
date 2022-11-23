@@ -21,3 +21,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5090/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5091
 #EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SaniSukan",ASTRO WC QATAR 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5091/default_ott.mpd
+
+#EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="SaniSukan",ASTRO WC QATAR 1 b
+http://15.235.187.118:2095/yh714/714275830/897582?token=GEFeAEAMEQ5EAFxUVgxSA1YGBlYEBwEEDwlRA1dXVVJRV1VWUFAGDFURFUcSTBRRUgg6WwEVC1kOBwUKUxpAFhAGRD5aABEORAoOU1QaShZHDAhXRw0AVwEJAgBUAlRaT0FGCFdGCRZUBAtcWBpKFlYdEVcXWVANaFRVRAhVB0FZDUMNX0gRWwhsXQAMWQhQEV9HAkcbEwhEQBIID0MOD09BVAhHFlJAAxEDR1MJUQIRSUdRCkJfFUVJEghDYzFBT0FTGUcBXUcPXFdHWxoSRxFJR1sWaEMERERCVwBbBxFBWRRREUgRWQdLZgYOVghRUBEMXQtEE1sVARIeQ1sNDQoXWRNsFFpQRAkbV1gBXwERGA==
