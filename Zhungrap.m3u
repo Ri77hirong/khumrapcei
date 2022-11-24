@@ -28,17 +28,17 @@ http://15.235.187.118:2095/yh714/714275830/897582?token=GEFeAEAMEQ5EAFxUVgxSA1YG
 #EXTINF:-1 tvg-id="WC2022-1" group-title="⚽ W.C.P 886 ⚽" ch-number="825" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WC2022 1 (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-1/
-https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTczMjE4MCwiaWF0IjoxNjY5MTI3MzgwfQ.7k2sUvapEG3NIfa0K4VLGpFVB9rW7amUWhI0MjFc9q0
+https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTczMjE4MCwiaWF0IjoxNjY5MTI3MzgwfQ.7k2sUvapEG3NIfa0K4VLGpFVB9rW7amUWhI0MjFc9q0
 
 #EXTINF:-1 tvg-id="WC2022-2" group-title="⚽ W.C.P 886 ⚽" ch-number="826" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WC2022 2 (B)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-2/
-https://d2o8qbnewx81s3.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTczMjE4MCwiaWF0IjoxNjY5MTI3MzgwfQ.7k2sUvapEG3NIfa0K4VLGpFVB9rW7amUWhI0MjFc9q0
+https://d2o8qbnewx81s3.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTczMjE4MCwiaWF0IjoxNjY5MTI3MzgwfQ.7k2sUvapEG3NIfa0K4VLGpFVB9rW7amUWhI0MjFc9q0
 
 #EXTINF:-1 tvg-id="WC2022-1" group-title="⚽ W.C.P 886 ⚽" ch-number="825" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WC2022 1 (C)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-1/
-https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd|authorization=BearereyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTczMjE4MCwiaWF0IjoxNjY5MTI3MzgwfQ.7k2sUvapEG3NIfa0K4VLGpFVB9rW7amUWhI0MjFc9q0
+https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTczMjE4MCwiaWF0IjoxNjY5MTI3MzgwfQ.7k2sUvapEG3NIfa0K4VLGpFVB9rW7amUWhI0MjFc9q0
 
 #EXTINF:-1 tvg-id="WC2022-2" group-title="⚽ W.C.P 886 ⚽" ch-number="826" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WC2022 2 (C)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
