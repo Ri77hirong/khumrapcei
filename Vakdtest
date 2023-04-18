@@ -76,7 +76,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="SPORTS",unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="KIDZ 886",Astro Ceria 1
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="KIDZ 886",Astro Ceria 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2408/default.mpd
