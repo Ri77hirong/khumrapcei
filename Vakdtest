@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xY8HLwz/arena2.png" group-title="FJ | SportsPACK",kumtest
-https://raw.githubusercontent.com/Ri77hirong/thimchioa/main/Wercham.m3u8
+#https://raw.githubusercontent.com/Ri77hirong/thimchioa/main/Wercham.m3u8
+https://raw.githubusercontent.com/Ri77hirong/phatcg/main/Jtv.mp4
 
 #EXTINF:-1 tvg-id="BollyOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/ABO_BollyOne.png" group-title="ASTRO" ,251 BollyOne HD test
 #KODIPROP:inputstream.adaptive.license_type=clearkey
