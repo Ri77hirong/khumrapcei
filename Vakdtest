@@ -1,7 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xY8HLwz/arena2.png" group-title="FJ | SportsPACK",kumtest1
-https://raw.githubusercontent.com/Ri77hirong/phatcg/main/Jtv.mp4
+https://tinyurl.com/Ag1hGkb
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg" group-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg" tvg-logo="https://raw.githubusercontent.com/ijai95/epgijai/main/jepstore.jpg", ch-number=" " tvg-name="Store" group-title="!!!❤️JepStore ❤️!!!",Welcome To Jepstore
+https://tinyurl.com/Ag1hGkb
 
 #EXTINF:-1 tvg-id="BollyOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/ABO_BollyOne.png" group-title="ASTRO" ,251 BollyOne HD test
 #KODIPROP:inputstream.adaptive.license_type=clearkey
